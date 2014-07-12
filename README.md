@@ -1,4 +1,4 @@
-Field Alchemy
+Field Alchemy by [MrJack](http://forums.bethsoft.com/user/781645-mrjack/)
 =============
 Latest version: 2.2.2
 
